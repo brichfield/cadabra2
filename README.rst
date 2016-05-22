@@ -16,7 +16,7 @@ Kasper Peeters
 
 This repository holds the 2.x series of the Cadabra computer
 algebra system. It is slowly getting ready for public consumption, but 
-expect some rough edges.
+expect some rough edges. Almost done.
 
 Cadabra was designed specifically for the solution of problems
 encountered in quantum and classical field theory. It has extensive
